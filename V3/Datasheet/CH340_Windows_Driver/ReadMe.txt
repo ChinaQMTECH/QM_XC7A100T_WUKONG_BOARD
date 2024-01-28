@@ -1,0 +1,1 @@
+Latest CH340/CH341 driver can be found here: http://www.wch-ic.com/downloads/CH341SER_EXE.html
